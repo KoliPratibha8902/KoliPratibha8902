@@ -38,18 +38,3 @@ I'm Pratibha Koli
 
 ### Python
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
-
-### Machine Learning
-![Machine Learning](https://miro.medium.com/max/1200/1*OohqW5DGh9CQS4hLY5FXzA.jpeg)
-
-### Deep Learning
-![Deep Learning](https://www.zdnet.com/a/img/resize/7e5cb9ef29594a1a693ae3625df4a8585b3ba79d/2021/02/22/8ab6f0de-b28d-4ae4-b1a3-eefec1b6c5f1/deep-learning.jpg?auto=webp&width=1200)
-
-### Docker
-![Docker](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png)
-
-### AWS
-![AWS](https://d1.awsstatic.com/partner-network/logo/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.317x300.png)
-
-### SQL
-![SQL](https://www.sqltutorial.org/wp-content/uploads/2016/04/sql-tutorial-2.png)
