@@ -18,8 +18,8 @@ I'm Pratibha Koli
 
 
 ## 📫 How to reach me:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [Gmail](mailto:atrcpit2pk@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Hashnode: [Explore my Hashnode blog where I dive into the latest technologies and share my learning journey!](https://studybymecheckout.hashnode.dev/)
 
 ## ⚡ Fun fact:
