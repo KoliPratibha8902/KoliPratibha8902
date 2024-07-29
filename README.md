@@ -3,7 +3,7 @@
 I'm Pratibha Koli
 
 ## 👀 I’m interested in:
-o. Python o. SQL o. Machine Learning o. Deep Learning - Data Structures and Algorithms (DSA) - Docker - AWS - DevOps
+# Python # SQL # Machine Learning # Deep Learning # Data Structures and Algorithms (DSA) # Docker # AWS # DevOps
 
 ## 🌱 I’m currently learning:
 - Advanced Machine Learning techniques
