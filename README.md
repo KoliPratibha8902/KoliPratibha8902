@@ -33,23 +33,17 @@ I'm Pratibha Koli
 - I love solving puzzles and playing Cricket.
 
 ## Topics
-### Data Structures and Algorithms (DSA)
+Data Structures and Algorithms (DSA)
 <img src="https://raw.githubusercontent.com/KoliPratibha8902/repository-name/main/images/dsa.png" width="150"/>
-
-### Python
+Python
 <img src="https://raw.githubusercontent.com/KoliPratibha8902/repository-name/main/images/python.png" width="150"/>
-
-### Machine Learning
+Machine Learning
 <img src="https://raw.githubusercontent.com/KoliPratibha8902/repository-name/main/images/machine_learning.png" width="150"/>
-
-### Deep Learning
+Deep Learning
 <img src="https://raw.githubusercontent.com/KoliPratibha8902/repository-name/main/images/deep_learning.png" width="150"/>
-
-### Docker
+Docker
 <img src="https://raw.githubusercontent.com/KoliPratibha8902/repository-name/main/images/docker.png" width="150"/>
-
-### AWS
+AWS
 <img src="https://raw.githubusercontent.com/KoliPratibha8902/repository-name/main/images/aws.png" width="150"/>
-
-### SQL
+SQL
 <img src="https://raw.githubusercontent.com/KoliPratibha8902/repository-name/main/images/sql.png" width="150"/>
