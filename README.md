@@ -1,5 +1,4 @@
 # Hi there! 👋
-
 I'm Pratibha Koli
 
 ## 👀 I’m interested in:
@@ -11,9 +10,7 @@ I'm Pratibha Koli
 - Docker 
 - AWS 
 - DevOps
-
 ## 🌱 I’m currently learning:
-- Advanced Machine Learning techniques
 - Docker and container orchestration
 - AWS cloud services
 - DevOps
@@ -35,7 +32,9 @@ I'm Pratibha Koli
 ## Topics
 # My Project
 
-![ML Logo](https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png)
-![Python Logo](https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/Pythonlogo.jpg)
+# My Project
+
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png" alt="ML Logo" width="200" height="200">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/Pythonlogo.jpg" alt="Python Logo" width="200" height="200">
 ![Docker Logo](https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png)
 ![AWS Logo](https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/AWSlogo.png)
