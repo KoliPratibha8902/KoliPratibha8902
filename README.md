@@ -34,7 +34,7 @@ I'm Pratibha Koli
 
 # My Project
 
-<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png" alt="ML Logo" width="200" height="200">
-<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/Pythonlogo.jpg" alt="Python Logo" width="200" height="200">
+![Python Logo]<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png" alt="ML Logo" width="60" height="70">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/Pythonlogo.jpg" alt="Python Logo" width="60" height="60">
 ![Docker Logo](https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png)
 ![AWS Logo](https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/AWSlogo.png)
