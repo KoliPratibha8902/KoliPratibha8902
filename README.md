@@ -26,9 +26,9 @@ I'm Pratibha Koli
 - Hashnode: [Explore my Hashnode blog where I dive into the latest technologies and share my learning journey!](https://studybymecheckout.hashnode.dev/)
 
 ## Languages and Tools:
--<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/Pythonlogo.jpg" alt="Python Logo" width="60" height="60">
--<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png" alt="ML Logo" width="60" height="60">
--<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/DSAlogo.png" alt="DSA Logo" width="60" height="60">
--<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/SQLlog.png" alt="SQL Logo" width="60" height="60">
--<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/AWSlog.png" alt="AWS Logo" width="60" height="60">
--<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/dockerlogo.png" alt="Docker Logo" width="60" height="60">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/Pythonlogo.jpg" alt="Python Logo" width="60" height="60">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/mllogo.png" alt="ML Logo" width="60" height="60">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/DSAlogo.png" alt="DSA Logo" width="60" height="60">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/SQLlog.png" alt="SQL Logo" width="60" height="60">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/AWSlog.png" alt="AWS Logo" width="60" height="60">
+<img src="https://github.com/KoliPratibha8902/KoliPratibha8902/blob/main/images/dockerlogo.png" alt="Docker Logo" width="60" height="60">
