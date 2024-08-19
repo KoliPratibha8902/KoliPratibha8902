@@ -5,7 +5,8 @@ I'm Pratibha Koli
 - SQL 
 - Machine Learning 
 - Deep Learning 
-- Data Structures and Algorithms (DSA) 
+- Data Structures and Algorithms (DSA)
+- Linux
 - Docker 
 - AWS 
 - DevOps
